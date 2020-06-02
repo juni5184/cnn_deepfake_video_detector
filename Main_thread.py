@@ -83,7 +83,7 @@ for video in video_list :
     #     os.mkdir(txt_output_dir)
 
     # 영상 라벨 - real 인지 fake 인지 입력
-    # fake = 0 / real  = 1
+    # fake = 1 / real  = 0
     # final_label = 1
     final_label = 0
 
